@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7e540c389f8322107f448eb9d824ab43" extends="sys_import_set_row" label="occasions_staging" max_length="40" name="x_58872_needit_occasions_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=טווח זמן" label="טווח זמן" max_length="40" name="u_טווח_זמן" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=סה&quot;כ שעות" label="סה&quot;כ שעות " max_length="40" name="u_סה_כ_שעות" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=סה&quot;כ שעות בעשרוני" label="סה&quot;כ שעות בעשרוני " max_length="40" name="u_סה_כ_שעות_בעשרוני" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=תאריך" label="תאריך" max_length="40" name="u_תאריך" type="glide_date"/>
+    </element>
+</database>
